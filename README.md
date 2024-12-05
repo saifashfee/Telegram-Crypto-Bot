@@ -58,8 +58,6 @@ Contributions, issues, and feature requests are welcome!
 
 ---
  
-```markdown  
 ![Python](https://img.shields.io/badge/Python-3.8-blue)  
 ![Telegram API](https://img.shields.io/badge/Telegram-Bot-green)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)    
-```
