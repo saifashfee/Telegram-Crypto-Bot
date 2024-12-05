@@ -35,8 +35,8 @@ This project is a **Python-based Telegram Bot** that cleans, and visualizes cryp
 ---
 
 ## Sample Visualizations 📈  
-<img src="https://github.com/user-attachments/assets/f88fc6e8-85b2-4182-a6a5-16794219abd9" width="300" />
-![top_10_market_cap_comparison](https://github.com/user-attachments/assets/74ec719b-c073-4e28-8fc4-6ebce8a59a49)
+<img src="https://github.com/user-attachments/assets/f88fc6e8-85b2-4182-a6a5-16794219abd9" width="450" />
+<img src="https://github.com/user-attachments/assets/74ec719b-c073-4e28-8fc4-6ebce8a59a49" width="450" />
 
 ---
 
