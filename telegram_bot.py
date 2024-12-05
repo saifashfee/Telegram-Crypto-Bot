@@ -383,8 +383,8 @@ async def select_visualization_specific(update: Update, context: ContextTypes.DE
 
 def main():
     """Run the bot."""
-    application = Application.builder().token(
-        "7954453720:AAELjYTyp2lQZ5c5OsNBb3VefuwVoLZhbyc").build()
+    telegram_key = os.getenv("TELEGRAM_BOT_KEY")
+    application = Application.builder().token(telegram_key).build()
 
     conversation_handler = ConversationHandler(
         entry_points=[CommandHandler("start", start)],
